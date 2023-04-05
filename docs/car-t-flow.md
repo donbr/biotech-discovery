@@ -1,5 +1,8 @@
 # CAR-T Business Flow
 
+- mkdocs material is cool
+- github pages is a work in progress
+
 ## Mermaid Model
 
 ```mermaid
